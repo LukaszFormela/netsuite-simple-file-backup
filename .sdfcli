@@ -1,0 +1,29 @@
+{
+  "projectName": "netsuite-simple-file-backup",
+  "environments": [
+    {
+      "name": "T1",
+      "account": "2118824",
+      "url": "2118824.app.netsuite.com",
+      "role": 55,
+      "email": "lukasz.formela@millgate.co.uk",
+      "authid": "2118824-Adm-Prod"
+    },
+    {
+      "name": "Sandbox",
+      "account": "5123691_SB1",
+      "url": "5123691-sb1.app.netsuite.com",
+      "role": 55,
+      "email": "lukasz.formela@millgate.co.uk",
+      "authid": "5123691_SB1-Adm-Sand"
+    },
+    {
+      "name": "Production",
+      "account": "5123691",
+      "url": "5123691.app.netsuite.com",
+      "role": 55,
+      "email": "lukasz.formela@millgate.co.uk",
+      "authid": "5123691-Adm-Prod"
+    }
+  ]
+}

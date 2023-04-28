@@ -1,0 +1,10 @@
+{
+  "paths": {
+    "reactLogic": "SuiteScripts/LF_SFB/src/logic"
+  },
+  "shim": {
+    "reactLogic": {
+      "exports": "logic"
+    }
+  }
+}
